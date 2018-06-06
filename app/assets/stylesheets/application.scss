@@ -37,5 +37,34 @@
 }
 
 .jumbotron {
+  background: #282C34;
   background-image: asset-url('');
+}
+
+.jumbotron h1 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 35px;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 40px;
+  padding-top: 5px;
+  border-top: 1px solid #efefef;
+  color: #777;
+
+  a:hover {
+    color: #222;
+  }
+
+  small {
+    float: left;
+  }
+
+  ul {
+    float: left;
+    list-style: none;
+  }
 }
