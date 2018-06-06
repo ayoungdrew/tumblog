@@ -1,3 +1,16 @@
+.article-actions {
+  border-top: 1px solid #282C34;
+  padding-top: 5px;
+}
+
+.center {
+ text-align: center;
+}
+
+.description {
+  margin-top: 0;
+}
+
 #logo {
   color: #fff;
   float: left;
@@ -9,10 +22,6 @@
 #logo:hover {
   color: #fff;
   text-decoration: none;
-}
-
-.center {
- text-align: center;
 }
 
 .jumbotron {
