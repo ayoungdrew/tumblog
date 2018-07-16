@@ -5,7 +5,7 @@ Dependencies:
 ```
 rvm install 2.3.3
 bundle install
-gem install
+gem install rails
 ```
 Database:
 ```
